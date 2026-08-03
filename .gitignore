@@ -31,5 +31,4 @@ pnpm-debug.log*
 # Optional coverage reports
 coverage/
 
-# Local system files
-Thumbs.db
+
