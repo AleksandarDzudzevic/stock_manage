@@ -1,4 +1,4 @@
-# Aleksandar Portfolio
+# Lightweight Stock Portfolio
 
 A lightweight React app for tracking a stock portfolio with live quotes.
 
